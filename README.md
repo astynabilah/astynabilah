@@ -20,14 +20,16 @@ Hello, welcome to my profile!
 <table align="center">
   <tr>
     <td align="center">
-      <img width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=astynabilah&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats">
+      <img width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=astynabilah&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats">
     </td>
     <td align="center">
-      <img width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=astynabilah&langs_count=8&layout=compact&hide_border=true&theme=radical&cache_seconds=1800" alt="Most Used Language">
+      <img width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=astynabilah&langs_count=8&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=1800" alt="Most Used Language">
     </td>
   </tr>
 </table>
 
+## 🏆 My GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=astynabilah&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ## 👩‍💻 More about me:
 - 🔭 I’m currently working on a freelance project
