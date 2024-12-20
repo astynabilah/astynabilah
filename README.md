@@ -34,4 +34,11 @@ Hello, welcome to my profile!
 ## 👩‍💻 More about me:
 - 🔭 I’m currently working on a freelance project
 - 🌱 I’m currently learning PySpark and exploring how to perform data manipulation with PySpark, including reading from and writing to PostgreSQL.
-- 📫 You can reach me by email astynabilah99@gmail.com
+- 💼 I am actively seeking opportunities in Data-related roles, where I can leverage my skills and passion for data analysis, visualization, and problem-solving.🚀
+
+## 📫 Connect with Me!
+Click the icon
+- <a href="mailto:your_email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">:</a> astynabilah99@gmail.com
+- <a href="https://www.linkedin.com/in/asty-nabilah-izzaturrahmah-1904261a2/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>: Asty Nabilah 'Izzaturrahmah 
