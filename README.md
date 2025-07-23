@@ -32,9 +32,7 @@ Hello, welcome to my profile!
 ![](https://github-profile-trophy.vercel.app/?username=astynabilah&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ## 👩‍💻 More about me:
-- 🔭 I’m currently working on a freelance project
-- 🌱 I’m currently learning PySpark and exploring how to perform data manipulation with PySpark, including reading from and writing to PostgreSQL.
-- 💼 I am actively seeking opportunities in Data-related roles, where I can leverage my skills and passion for data analysis, visualization, and problem-solving.🚀
+- 💼 I’m currently working on a Data Engineer Role
 
 ## 📫 Connect with Me!
 Click the icon
